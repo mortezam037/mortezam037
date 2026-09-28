@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/morteza-moradzadeh/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -455,11 +455,6 @@ I'm continuously exploring areas where **software engineering meets intelligent 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mortezam037&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortezam037&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=mortezam037&theme=transparent&hide_border=true" />
 
